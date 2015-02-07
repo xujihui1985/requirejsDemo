@@ -1,0 +1,1 @@
+{"version":3,"file":"taskData.js","sources":["taskData.js.src.js"],"names":["define","require","exports","module","$","console","log","sayHello"],"mappings":"AAAAA,QAAQ,UAAU,UAAU,SAAS,UAAU,SAASC,EAASC,EAASC,GAEvE,GAAIC,GAAIH,EAAQ,SAEhBI,SAAQC,IAAIF,GAEZD,EAAOD,SACLK,SAAU,WACRF,QAAQC,IAAI"}
