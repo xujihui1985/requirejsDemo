@@ -1,4 +1,3 @@
-
 require(['underscore', 'app/taskData', 'text!templates/template.html!strip'], function (_, taskData, temp) {
 
     console.log(temp);

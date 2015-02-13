@@ -9,7 +9,7 @@ require.config({
     //default to the directory same as the main.config.js file, can be overwritten, can be url also
     // for example, if all js files is loaded from cdn, then we can set baseUrl to
     // http://cdn.xxx.com
-    baseUrl: 'js/',
+    //baseUrl: 'js/',
     // overwrite the path that require js will look, can also be folder
     // for example "scripts": "../scripts", this will map the scripts folder to be ../scripts
     paths: {
@@ -43,7 +43,7 @@ require.config({
     // each context load module to its own cache
     // requirejs.s.contexts._.config; is the default config object of require js
     // we can create a new test config with this object
-    context: 'xxx'
+//    context: 'xxx'
 });
 
 
